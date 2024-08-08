@@ -1,0 +1,15 @@
+[project]
+name = "spark_airs"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "mangG907", email = "mang.gee@gmail.com"},
+]
+dependencies = []
+requires-python = "==3.11.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false
